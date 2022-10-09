@@ -2,7 +2,7 @@
 
 <h1 align="center">Queen-Melissa-Beta<br></h1>
 <p align="center">
-<img src="https://images4.alphacoders.com/738/73806.jpg" alt="image" width="300" height="300" />
+<img src="https://images4.alphacoders.com/738/73806.jpg" alt="image" width="1728" height="1080" />
 </p>
 
 <p align="center">
